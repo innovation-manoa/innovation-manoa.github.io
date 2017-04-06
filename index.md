@@ -14,6 +14,11 @@ cafeterias
 * Utilize the University of Hawaii CAS authentication system to allow students
 to log in and use the application
 
+# Project Plan
+
+In order to develop this web application, the team will meet twice a week: one
+in person and one over Skype, in order to assess our weekly goals.
+
 # Pages
 
 The following pages are a baseline of what the application will look like. The 
