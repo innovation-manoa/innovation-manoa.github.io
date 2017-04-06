@@ -28,7 +28,7 @@ pages are subject to change as development progresses.
 
 Upon entering the site, the user is directed to the landing page.
 
-![](images/landing-page.png)
+![](images/landing-page-b.png)
 
 ## Terms of Use Page
 
