@@ -13,7 +13,6 @@
     * [Create Request Page](#create-request-page)
     * [Requests Page](#requests-page)
     * [Menu Page](#menu-page)
-
   * [Milestone 2: Integration of Forms with Databases](#milestone-2-integration-of-forms-with-databases)
 
 # About Manoa Dining Delivery
