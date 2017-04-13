@@ -91,29 +91,29 @@ screenshots will be replaced in Milestone 2.
 ## Landing Page
 
 Upon entering the site, the user is greeted by this page.
-![](/images/m1-landing.png)
+![](/images/landing-pg.png)
 
 ## Request a Delivery Page
 
 Users will be able to request food items to be delivered to their dorm.
-![](/images/m1-request.png)
+![](/images/add-req.png)
 
 ## Requests Page
 
 Users will be able to view all requests that are made. When a request is
 fulfilled, it will be removed from the page
-![](/images/m1-requests.png)
+![](/images/all-reqs.png)
 
 ## Menu Page
 
 The menu at both Hale Aloha Cafe and Gateway Cafe will be displayed on this 
 page. The menu items are scraped from their respective menu sites.
-![](/images/m1-menu.png)
+![](/images/aloha-menu-pg.png)
 
 ## Edit Profile Page
 
 Users will be able to create and edit their profile on this page.
-![](/images/m1-edit-profile.png)
+![](/images/edit-profile-pg.png)
 
 ## Milestone 2: Collections, Design, and Menu Automation
 
