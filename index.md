@@ -15,6 +15,8 @@
     * [Menu Page](#menu-page)
   * [Milestone 2: Collections and Design](#milestone-2-collections-and-design)
 
+The application can be found [here](http://manoa-dining-delivery.meteorapp.com/).
+
 # About Manoa Dining Delivery
 
 ## Background
