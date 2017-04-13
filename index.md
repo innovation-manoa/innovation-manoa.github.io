@@ -8,11 +8,11 @@
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
     * [Landing Page](#landing-page)
-    * [Terms of Use Page](#terms-of-use-page)
-    * [Log In Page](#log-in-page)
-    * [Create Request Page](#create-request-page)
+    * [Request a Delivery Page](#request-a-delivery-page)
     * [Requests Page](#requests-page)
     * [Menu Page](#menu-page)
+    * [Requests Page](#requests-page)
+    * [Edit Profile Page](#edit-profile-page)
   * [Milestone 2: Collections and Design](#milestone-2-collections-and-design)
 
 The application can be found [here](http://manoa-dining-delivery.meteorapp.com/).
@@ -85,50 +85,35 @@ Milestone 1 are managed [here](https://github.com/innovation-manoa/manoa-dining-
 The goal of the first milestone was to create mockups of the various pages of 
 the application, create a script that would scrape the menu items from both Hale 
 Aloha Café and Gateway Café, and to utilize the University of Hawaii CAS
-authentication.
+authentication. All placeholder images and text in the following mockup
+screenshots will be replaced in Milestone 2.
 
-### Landing Page
+## Landing Page
 
-Upon entering the site, the user is directed to the landing page.
+Upon entering the site, the user is greeted by this page.
+![](/images/m1-landing.png)
 
-![](images/landing-page-b.png)
+## Request a Delivery Page
 
-### Terms of Use Page
+Users will be able to request food items to be delivered to their dorm.
+![](/images/m1-request.png)
 
-In order to use the application, users must agree to the terms of use, displayed
-on the following page.
+## Requests Page
 
-![](images/terms-page.png)
+Users will be able to view all requests that are made. When a request is
+fulfilled, it will be removed from the page
+![](/images/m1-requests.png)
 
-### Log In Page
+## Menu Page
 
-This page is used to allow users to login and use the application. Eventually,
-this will be change to utilize the UH CAS authentication system rather than this
-to allow users to log in.
+The menu at both Hale Aloha Cafe and Gateway Cafe will be displayed on this 
+page. The menu items are scraped from their respective menu sites.
+![](/images/m1-menu.png)
 
-![](images/login-page.png)
+## Edit Profile Page
 
-### Create Request Page
-
-Users can create a request to have food delivered to their dorm using the
-following form. It requires the user enter their dorm, room number, and the
-foods they want delivered.
-
-![](images/create-request-page.png)
-
-### Requests Page
-
-All requests that are made are displayed on the following page. Other users
-can choose to accept the request and fulfill it.
-
-![](images/requests-page.png)
-
-### Menu Page
-
-The current foods on the menu at both cafeterias will be displayed on this page.
-A script will be used to retrieve them.
-
-![](images/menu-page.png)
+Users will be able to create and edit their profile on this page.
+![](/images/m1-edit-profile.png)
 
 ## Milestone 2: Collections and Design
 
