@@ -13,7 +13,7 @@
     * [Create Request Page](#create-request-page)
     * [Requests Page](#requests-page)
     * [Menu Page](#menu-page)
-  * [Milestone 2: Integration of Forms with Databases](#milestone-2-integration-of-forms-with-databases)
+  * [Milestone 2: Collections and Design](#milestone-2-collections-and-design)
 
 # About Manoa Dining Delivery
 
@@ -50,14 +50,14 @@ in exchange for cash.
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, clone the repo using the following on the command line:
+Second, clone the application by invoking the following command 
+on the terminal.
 
 ```
 $ git clone https://github.com/innovation-manoa/manoa-dining-delivery.git
 ```
 
-Alternatively, you can [download](https://github.com/innovation-manoa/manoa-dining-delivery/archive/master.zip)
-the application
+Alternatively, you can download it by clicking [here](https://github.com/innovation-manoa/manoa-dining-delivery/archive/master.zip).
 
 Third, cd into the app/ directory and install required packages using:
 
@@ -71,13 +71,19 @@ Fourth, run the system with:
 $ meteor npm run start
 ```
 
+When the application is successfully built, it will appear on [http://localhost:3000/](http://localhost:3000/).
+
 # Development History
 
 ## Milestone 1: Mockup Development
 
-The first milestone for this application is focused on implementing a mockup
-of the pages. The following mockup pages developed earlier are used as a basline
-for developing the application.
+Milestone 1 started on April 6, 2017 and ended on April 13, 2017. The goals for 
+Milestone 1 are managed [here](https://github.com/innovation-manoa/manoa-dining-delivery/projects/1).
+
+The goal of the first milestone was to create mockups of the various pages of 
+the application, create a script that would scrape the menu items from both Hale 
+Aloha Café and Gateway Café, and to utilize the University of Hawaii CAS
+authentication.
 
 ### Landing Page
 
@@ -122,7 +128,15 @@ A script will be used to retrieve them.
 
 ![](images/menu-page.png)
 
-## Milestone 2: Integration of Forms with Databases
+## Milestone 2: Collections and Design
 
-The second milestone for this application will focus on integrating the various
-forms of the page with a database using MongoDB.
+Milestone 2 started on April 13, 2017 and will end on April 25, 2017. The goals
+for Milestone 2 are managed [here](https://github.com/innovation-manoa/manoa-dining-delivery/projects/2).
+
+The goal of the second milestone is to create various Mongo Collections for the
+different features of the application, and to improve the overall design of the
+application. 
+
+The creation of the various collections will allow the different features of the
+application to function, such as creating requests, displaying requests, and
+displaying current items on the menu.
