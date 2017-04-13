@@ -115,14 +115,15 @@ page. The menu items are scraped from their respective menu sites.
 Users will be able to create and edit their profile on this page.
 ![](/images/m1-edit-profile.png)
 
-## Milestone 2: Collections and Design
+## Milestone 2: Collections, Design, and Menu Automation
 
 Milestone 2 started on April 13, 2017 and will end on April 25, 2017. The goals
 for Milestone 2 are managed [here](https://github.com/innovation-manoa/manoa-dining-delivery/projects/2).
 
 The goal of the second milestone is to create various Mongo Collections for the
 different features of the application, and to improve the overall design of the
-application. 
+application. Currently we have to manually run python script to scrape menu data,
+but we would like to find a way to automate this weekly.
 
 The creation of the various collections will allow the different features of the
 application to function, such as creating requests, displaying requests, and
