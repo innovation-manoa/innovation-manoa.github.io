@@ -1,2 +1,8 @@
 title: Manoa Dining Delivery
+description: Convenient On Campus Food Delivery
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
