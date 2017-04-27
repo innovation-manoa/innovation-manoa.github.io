@@ -128,3 +128,14 @@ but we would like to find a way to automate this weekly.
 The creation of the various collections will allow the different features of the
 application to function, such as creating requests, displaying requests, and
 displaying current items on the menu.
+
+Milestone 2 was implemented as [Manoa Dining Delivery GitHub Milestone M2](https://github.com/innovation-manoa/manoa-dining-delivery/milestone/1)::
+![](/images/m2_issues.png)
+
+Milestone 2 consisted of five issues, and progress was managed via the [Manoa Dining Delivery GitHub Project M2](https://github.com/innovation-manoa/manoa-dining-delivery/projects/2):
+
+![](/images/m2_project.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](/images/m2_network.png)
