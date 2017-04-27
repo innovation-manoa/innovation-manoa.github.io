@@ -7,12 +7,6 @@
 * [Installation Guide](#installation-guide)
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
-    * [Landing Page](#landing-page)
-    * [Request a Delivery Page](#request-a-delivery-page)
-    * [Requests Page](#requests-page)
-    * [Menu Page](#menu-page)
-    * [Requests Page](#requests-page)
-    * [Edit Profile Page](#edit-profile-page)
   * [Milestone 2: Collections and Design](#milestone-2-collections-and-design)
 
 The application can be found [here](http://manoa-dining-delivery.meteorapp.com/).
