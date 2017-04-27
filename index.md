@@ -82,32 +82,25 @@ Aloha Café and Gateway Café, and to utilize the University of Hawaii CAS
 authentication. All placeholder images and text in the following mockup
 screenshots will be replaced in Milestone 2.
 
-## Landing Page
+Mockups for the following four pages were implemented during M1:
 
-Upon entering the site, the user is greeted by this page.
-![](/images/landing-pg.png)
+<img width="200px" src="images/landing-pg.png"/>
+<img width="200px" src="images/add-req.png"/>
+<img width="200px" src="images/all-reqs.png"/>
+<img width="200px" src="images/aloha-menu-pg.png"/>
+<img width="200px" src="images/edit-profile-pg.png"/>
 
-## Request a Delivery Page
+Milestone 1 was implemented as [Manoa Dining Delivery GitHub Milestone M1](https://github.com/innovation-manoa/manoa-dining-delivery/milestone/2)::
 
-Users will be able to request food items to be delivered to their dorm.
-![](/images/add-req.png)
+![](images/m1_issues.png)
 
-## Requests Page
+Milestone 1 consisted of three issues, and progress was managed via the [Manoa Dining Delivery GitHub Project M1](https://github.com/innovation-manoa/manoa-dining-delivery/projects/1):
 
-Users will be able to view all requests that are made. When a request is
-fulfilled, it will be removed from the page
-![](/images/all-reqs.png)
+![](images/m1_project.png)
 
-## Menu Page
+Each issue was implemented in its own branch, and merged into master when completed:
 
-The menu at both Hale Aloha Cafe and Gateway Cafe will be displayed on this 
-page. The menu items are scraped from their respective menu sites.
-![](/images/aloha-menu-pg.png)
-
-## Edit Profile Page
-
-Users will be able to create and edit their profile on this page.
-![](/images/edit-profile-pg.png)
+![](images/m1_network.png)
 
 ## Milestone 2: Collections, Design, and Menu Automation
 
