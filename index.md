@@ -13,6 +13,19 @@ The application can be found [here](http://manoa-dining-delivery.meteorapp.com/)
 
 # About Manoa Dining Delivery
 
+When you come to the site, you are greeted by the following landing page:
+![](images/mdd_landing.png)
+
+Anyone with a UH account can login to Manoa Dining Delivery by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password. Upon logging in you are able to create a food delivery request and view all food delivery requests:
+![](images/mdd_request.png)
+![](images/mdd_all_reqs.png)
+
+Users can also edit their information on the edit profile page:
+![](images/mdd_edit_profile.png)
+
+Before making an order users can view the menu of both Hale Aloha and Gateway Cafe. The menus are read from a JSON file scripted by Python. They display the catergory of food the food is from and the caloric value:
+![](images/mdd_ha_menu.png)
+
 ## Background
 
 Meal plans at the University of Hawaii at Manoa come in either 7, 10, 14 or 19
@@ -33,6 +46,8 @@ In addition, many people who are busy studying (or being lazy) would rather have
 food delivered to them rather than going all the way to the cafeteria to get
 food. If given the opportunity to get food delivered to them for a small amount,
 some students would do so.
+
+
 
 ## Solution
 
