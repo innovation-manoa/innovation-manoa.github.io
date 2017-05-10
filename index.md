@@ -19,7 +19,7 @@
     * [ESLint](#eslint)
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
-  * [Milestone 2: Collections, Design, and Menu Automation](#milestone-2-collections-and-design-and-menu-automation)
+  * [Milestone 2: Collections, Design, and Menu Automation](#milestone-2-collections-design-and-menu-automation)
   * [Milestone 3: Connecting UI to Backend](#milestone-3-connecting-ui-to-backend)
   * [Initial User Study](#initial-user-study)
 
@@ -310,7 +310,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ## Milestone 3: Connecting UI to Backend
 
-Milestone 3 will start on April 28, 2017 and will end on May 9, 2017.
+Milestone 3 will start on April 28, 2017 and ended on May 9, 2017.
 
 The goal is Milestone 3 was to connect all of our frontend features to the backend. We updated the templates used on each page with form control templates from meteor-example-form. We also wanted to improve the UI of our application in Milestone 3. This meant implementing SweetAlert into our application and replacing the edit profile page. We decided a profile wasn't a big priority for a food delivery application and having a nice UI friendly SWAL form would be optimal. We also redid some of the design of the header for a more visually appealing web application.
 
@@ -332,7 +332,7 @@ To test our web application, we asked various members of the Univert of Hawaii c
 
 Makamae Carpenter (Junior, Electrical Engineering) :
 
-The application isn't responsive enough in a mobile platform. I think a good majority of college students would be on their phones when deciding to use this service. A ggood responsive mobile platform would make the app very solid. I like the design because it's very simple. An app that is simple to figure out is a good app in my opinion.
+The application isn't responsive enough in a mobile platform. I think a good majority of college students would be on their phones when deciding to use this service. A good responsive mobile platform would make the app very solid. I like the design because it's very simple. An app that is simple to figure out is a good app in my opinion.
 
 Christian Shimabuku (Senior, Journalism) :
 
@@ -348,4 +348,4 @@ The website looks very professional. I wish the website would give you some kind
 
 Christopher Afuso (Sophmore, Botany) :
 
-This definitely looks like something I could see myself using. The UI is very simple and isn't cluttered. The website clearly has a purpose and it fulfills it. The links all pertain to the object of the website which is to have food delivered to your dorm. Maybe the one thing I wish the site had was some kind of estimater of how much food you could fit into the container. Maybe measaurements of the takeout box too. A student can request a lot of food that obviously would not fit into the box and the person retrieving the food would not know what to do.
+This definitely looks like something I could see myself using. The UI is very simple and isn't cluttered. The website clearly has a purpose and it fulfills it. The links all pertain to the object of the website which is to have food delivered to your dorm. Maybe the one thing I wish the site had was some kind of estimater of how much food you could fit into the container. Maybe measurements of the takeout box too. A student can request a lot of food that obviously would not fit into the box and the person retrieving the food would not know what to do.
