@@ -311,3 +311,31 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 Milestone 3 will start on April 28, 2017 and will end on May 9, 2017. The goals
 for Milestone 3 are managed [here](https://github.com/innovation-manoa/manoa-dining-delivery/projects/3).
+
+Milestone 3 was implemented as [Manoa Dining Delivery GitHub Milestone M3](https://github.com/innovation-manoa/manoa-dining-delivery/milestone/3)::
+![](/images/m3_issues.png)
+
+Milestone 3 consisted of seven issues, and progress was managed via the [Manoa Dining Delivery GitHub Project M3](https://github.com/innovation-manoa/manoa-dining-delivery/projects/3):
+![](/images/m3_project.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](/images/m3_network.png)
+
+## Initial User Study
+
+To test our web application, we asked various members of the Univert of Hawaii community to test our application. We explained what the premise of the website is and let them test it out. These are the following responses :
+
+Makamae Carpenter (Junior, Electrical Engineering) :
+
+Christian Shimabuku (Senior, Journalism) :
+When you first come to the site it is very visually pleasing because it's simple. The front page doesn't seem to have many features but I don't think that's the purpose of it. A clear pricing scale would be nice to have so users would know how much to pay everytime.
+
+Brandon Rivera (Junior, Journalism) :
+It's a great idea for students who do not feel like getting up and walking down. I feel like it's also a really great idea to make sure students always use their meal swipes. This idea is great and benefits both parties involved.
+
+Irene Ma (Junior, Animal Science) :
+The website looks very professional. I wish the website would give you some kind of alert or email when someone fulfills your request. Getting a random phone call may seem unsettling when you don't expect. I feel like the menus could also use some sort of work with more color added to it to make it more appealing.
+
+Christopher Afuso (Sophmore, Botany) :
+
