@@ -310,7 +310,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ## Milestone 3: Connecting UI to Backend
 
-Milestone 3 will start on April 28, 2017 and ended on May 9, 2017.
+Milestone 3 started on April 28, 2017 and ended on May 9, 2017.
 
 The goal is Milestone 3 was to connect all of our frontend features to the backend. We updated the templates used on each page with form control templates from meteor-example-form. We also wanted to improve the UI of our application in Milestone 3. This meant implementing SweetAlert into our application and replacing the edit profile page. We decided a profile wasn't a big priority for a food delivery application and having a nice UI friendly SWAL form would be optimal. We also redid some of the design of the header for a more visually appealing web application.
 
