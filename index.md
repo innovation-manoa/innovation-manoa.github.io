@@ -307,10 +307,15 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ![](/images/m2_network.png)
 
-## Milestone 3
+## Milestone 3: Connecting UI to backend
 
-Milestone 3 will start on April 28, 2017 and will end on May 9, 2017. The goals
-for Milestone 3 are managed [here](https://github.com/innovation-manoa/manoa-dining-delivery/projects/3).
+Milestone 3 will start on April 28, 2017 and will end on May 9, 2017.
+
+The goal is Milestone 3 was to connect all of our frontend features to the backend. We updated the templates used on each page with form control templates from meteor-example-form. We also wanted to improve the UI of our application in Milestone 3. This meant implementing SweetAlert into our application and replacing the edit profile page. We decided a profile wasn't a big priority for a food delivery application and having a nice UI friendly SWAL form would be optimal. We also redid some of the design of the header for a more visually appealing web application.
+
+The goal of Milestone 3 was to connect the user interface to the underlying data model. This meant that we updated the templates for each page with calls to helper functions, and we created Javascript files for the templates with helper functions. We used the form control templates from meteor-example-form to simplify implementation of form processing.
+
+The goals for Milestone 3 are managed [here](https://github.com/innovation-manoa/manoa-dining-delivery/projects/3).
 
 Milestone 3 was implemented as [Manoa Dining Delivery GitHub Milestone M3](https://github.com/innovation-manoa/manoa-dining-delivery/milestone/3)::
 ![](/images/m3_issues.png)
@@ -328,14 +333,20 @@ To test our web application, we asked various members of the Univert of Hawaii c
 
 Makamae Carpenter (Junior, Electrical Engineering) :
 
+The application isn't responsive enough in a mobile platform. I think a good majority of college students would be on their phones when deciding to use this service. A ggood responsive mobile platform would make the app very solid. I like the design because it's very simple. An app that is simple to figure out is a good app in my opinion.
+
 Christian Shimabuku (Senior, Journalism) :
+
 When you first come to the site it is very visually pleasing because it's simple. The front page doesn't seem to have many features but I don't think that's the purpose of it. A clear pricing scale would be nice to have so users would know how much to pay everytime.
 
 Brandon Rivera (Junior, Journalism) :
+
 It's a great idea for students who do not feel like getting up and walking down. I feel like it's also a really great idea to make sure students always use their meal swipes. This idea is great and benefits both parties involved.
 
 Irene Ma (Junior, Animal Science) :
+
 The website looks very professional. I wish the website would give you some kind of alert or email when someone fulfills your request. Getting a random phone call may seem unsettling when you don't expect. I feel like the menus could also use some sort of work with more color added to it to make it more appealing.
 
 Christopher Afuso (Sophmore, Botany) :
 
+This definitely looks like something I could see myself using. The UI is very simple and isn't cluttered. The website clearly has a purpose and it fulfills it. The links all pertain to the object of the website which is to have food delivered to your dorm. Maybe the one thing I wish the site had was some kind of estimater of how much food you could fit into the container. Maybe measaurements of the takeout box too. A student can request a lot of food that obviously would not fit into the box and the person retrieving the food would not know what to do.
