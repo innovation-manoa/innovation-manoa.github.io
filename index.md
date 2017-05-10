@@ -19,8 +19,9 @@
     * [ESLint](#eslint)
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
-  * [Milestone 2: Collections and Design](#milestone-2-collections-and-design)
-  * [Milestone 3](#milestone-3)
+  * [Milestone 2: Collections, Design, and Menu Automation](#milestone-2-collections-and-design-and-menu-automation)
+  * [Milestone 3: Connecting UI to Backend](#milestone-3-connecting-ui-to-backend)
+  * [Initial User Study](#initial-user-study)
 
 # About Manoa Dining Delivery
 
@@ -307,13 +308,11 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ![](/images/m2_network.png)
 
-## Milestone 3: Connecting UI to backend
+## Milestone 3: Connecting UI to Backend
 
 Milestone 3 will start on April 28, 2017 and will end on May 9, 2017.
 
 The goal is Milestone 3 was to connect all of our frontend features to the backend. We updated the templates used on each page with form control templates from meteor-example-form. We also wanted to improve the UI of our application in Milestone 3. This meant implementing SweetAlert into our application and replacing the edit profile page. We decided a profile wasn't a big priority for a food delivery application and having a nice UI friendly SWAL form would be optimal. We also redid some of the design of the header for a more visually appealing web application.
-
-The goal of Milestone 3 was to connect the user interface to the underlying data model. This meant that we updated the templates for each page with calls to helper functions, and we created Javascript files for the templates with helper functions. We used the form control templates from meteor-example-form to simplify implementation of form processing.
 
 The goals for Milestone 3 are managed [here](https://github.com/innovation-manoa/manoa-dining-delivery/projects/3).
 
