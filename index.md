@@ -27,11 +27,17 @@
 The current version of the Manoa Dining Delivery application can be found 
 [here](http://manoa-dining-delivery.meteorapp.com/).
 
-When you come to the site, you are greeted by the following landing page:
+When you arrive to the site, you are greeted by the following landing page:
 
-![](images/mdd_landing.png)
+![](images/mdd_landing.jpg)
 
 Anyone with a UH account can login to Manoa Dining Delivery by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password. Upon logging in you are able to create a food delivery request and view all food delivery requests:
+
+![](images/mdd_login.png)
+
+Once authenticated, you can edit your profile corresponding to which dorm you're in and what your room number is: 
+
+![](images/mdd_edit_profile.png)
 
 Users can request a delivery by filling out the following form:
 
@@ -40,17 +46,11 @@ Users can request a delivery by filling out the following form:
 Upon filling out the form, their request will appear in the page below. Other
 users can choose to fulfill that request.
 
-![](images/mdd_all_reqs.png)
+![](images/mdd_fulfill.png)
 
-Users can also edit their information on a profile page. Any information
-submitted on this page will be automatically imported into the delivery request
-page.
+Before making their decision to order food from the cafe, students can view the menu, sorted by day and time, of what cafe they want to order from! The menu is scripted using python python and automatically updates each week!
 
-![](images/mdd_edit_profile.png)
-
-Before making an order users can view the menu of both Hale Aloha and Gateway Cafe. The menus are read from a JSON file, which are created by a Python script. The menus display the categories of food and their caloric value:
-
-![](images/mdd_ha_menu.png)
+![](images/mdd_menu.png)
 
 ## Background
 
