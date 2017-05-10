@@ -328,7 +328,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ## Initial User Study
 
-To test our web application, we asked various members of the Univert of Hawaii community to test our application. We explained what the premise of the website is and let them test it out. These are the following responses :
+We asked various members of the University of Hawaii community to test our application. We explained what the premise of the website is and let them test it out. These are the following responses:
 
 Makamae Carpenter (Junior, Electrical Engineering) :
 
